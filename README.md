@@ -12,7 +12,7 @@
 * UI：最初版本的网站部分页面截图
 * ONEPIECE.ppt：最初不完整版本答辩PPT (too naive)
 
-参与开发人员：[周成文](https://github.com/free-mind),廖育明，徐凡，杨静如
+参与开发人员：[周成文](https://github.com/free-mind)，廖育明，徐凡，杨静如
 
 >曾部署于sae，现因为云豆吃紧，暂停服务_(:з」∠)__
 
